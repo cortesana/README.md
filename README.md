@@ -30,17 +30,17 @@ The aim of this project is to prepare a complete **README.md template** that can
 ## Markdown Examples
 
 ### Images
-´´´
+
     ![Markdown logo](./examples/markdownLogo.png)
-´´´
+
 ![Markdown logo](./examples/markdownLogo.png)   
 
 ### Tables
-´´´
+
     ||HEADER 1|HEADER 2|
     |---------|--------|--------|
     |ITEM|CONTENT|CONTENT|
-´´´
+
 ||HEADER 1|HEADER 2|
 |---------|--------|--------|
 |ITEM|CONTENT|CONTENT|
