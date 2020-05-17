@@ -44,8 +44,8 @@ The aim of this project is to prepare a complete **README.md template** that can
 
 ## Resources
 
-- [The Markdown Guide]([https://www.markdownguide.org/](https://www.markdownguide.org/))
-- [StackEdit: In-browser Markdown editor]([https://stackedit.io/](https://stackedit.io/))
+- [The Markdown Guide](https://www.markdownguide.org)
+- [StackEdit: In-browser Markdown editor](https://stackedit.io/)
 - [GitHub Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 <a name="contributions"/>
