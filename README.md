@@ -11,6 +11,8 @@ The aim of this project is to prepare a complete **README.md template** that can
 ## Table of contents
 - [To do](#to-do)
 - [Markdown Examples](#examples)
+	- [Images](#images)
+	- [Tables](#tables)
 - [Installation Guide](#installation)
 - [Resources](#resources)
 - [How To Contribute](#contributions)
@@ -28,18 +30,24 @@ The aim of this project is to prepare a complete **README.md template** that can
 <a name="examples"/>
 
 ## Markdown Examples
+<a name="images"/>
 
 ### Images
 
 ![Markdown logo](./examples/markdownLogo.png)
 
+Markdown:
+
     ![Markdown logo](./examples/markdownLogo.png)
+<a name="tables"/>
 
 ### Tables
 
 ||HEADER 1|HEADER 2|
 |---------|--------|--------|
 |ITEM|CONTENT|CONTENT|
+
+Markdown:
 
     ||HEADER 1|HEADER 2|
     |---------|--------|--------|
