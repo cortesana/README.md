@@ -9,13 +9,13 @@ The aim of this project is to prepare a complete **README.md template** that can
 *Disclaimer: This is a simple, ready-to-use template. READMEs can be very elaborate.*
 
 ## Table of contents
-[To do](#to-do)
-[Markdown Examples](#examples)
-[Installation Guide](#installation)
-[Resources](#resources)
-[How To Contribute](#contributions)
-[Authors](#authos)
-[LICENSE](#license)
+- [To do](#to-do)
+- [Markdown Examples](#examples)
+- [Installation Guide](#installation)
+- [Resources](#resources)
+- [How To Contribute](#contributions)
+- [Authors](#authors)
+- [LICENSE](#license)
 
 <a name="to-do"/>
 
