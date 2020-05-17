@@ -1,6 +1,6 @@
 # README.md
 
->  A **README.md** template.
+>  A **README.md** template. :speech_balloon:
 
 **Work in Progress.**
 
@@ -9,6 +9,15 @@ The aim of this project is to prepare a complete **README.md template** that can
 *Disclaimer: This is a simple, ready-to-use template. READMEs can be very elaborate.*
 
 ## Table of contents
+[To do](#to-do)
+[Markdown Examples](#examples)
+[Installation Guide](#installation)
+[Resources](#resources)
+[How To Contribute](#contributions)
+[Authors](#authos)
+[LICENSE](#license)
+
+<a name="to-do"/>
 
 ## To do
 
@@ -16,17 +25,30 @@ The aim of this project is to prepare a complete **README.md template** that can
 - [ ] Adapt and modify README.md.
 - [ ] Commit and push your new README.md.
 
+<a name="examples"/>
+
 ## Markdown Examples
+
+### Images
+### Tables
+### Code blocks
+
+<a name="installation"/>
 
 ## Installation Guide
 
 1. Clone or download the repository.
 2. Copy and modify README.md.
 
+<a name="resources"/>
+
 ## Resources
 
 - [The Markdown Guide]([https://www.markdownguide.org/](https://www.markdownguide.org/))
 - [StackEdit: In-browser Markdown editor]([https://stackedit.io/](https://stackedit.io/))
+- [GitHub Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+<a name="contributions"/>
 
 ## How To Contribute
 
@@ -45,8 +67,14 @@ Contributions are what make the open source community an amazing place to be, le
 
 5. Open a Pull Request.
 
-**Authors**
+<a name="authors"/>
+
+## Authors
 
 [cortesana](https://twitter.com/cortesana_dev)
+
+<a name="license"/>
+
+## LICENSE
 
 **MIT License**
