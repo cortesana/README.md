@@ -8,11 +8,15 @@ The aim of this project is to prepare a complete **README.md template** that can
 
 *Disclaimer: This is a simple, ready-to-use template. READMEs can be very elaborate.*
 
-## To do:
+## Table of contents
+
+## To do
 
 - [x] Basic README.md structure.
 - [ ] Adapt and modify README.md.
 - [ ] Commit and push your new README.md.
+
+## Markdown Examples
 
 ## Installation Guide
 
@@ -42,6 +46,7 @@ Contributions are what make the open source community an amazing place to be, le
 5. Open a Pull Request.
 
 **Authors**
+
 [cortesana](https://twitter.com/cortesana_dev)
 
 **MIT License**
