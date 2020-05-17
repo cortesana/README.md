@@ -14,8 +14,8 @@ The aim of this project is to prepare a complete **README.md template** that can
 	- [Images](#images)
 	- [Tables](#tables)
 - [Installation Guide](#installation)
-- [Resources](#resources)
 - [How To Contribute](#contributions)
+- [Resources](#resources)
 - [Authors](#authors)
 - [LICENSE](#license)
 
@@ -60,14 +60,6 @@ Markdown:
 1. Clone or download the repository.
 2. Copy and modify README.md.
 
-<a name="resources"/>
-
-## Resources
-
-- [The Markdown Guide](https://www.markdownguide.org)
-- [StackEdit: In-browser Markdown editor](https://stackedit.io/)
-- [GitHub Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
-
 <a name="contributions"/>
 
 ## How To Contribute
@@ -86,6 +78,14 @@ Contributions are what make the open source community an amazing place to be, le
 	```
 
 5. Open a Pull Request.
+
+<a name="resources"/>
+
+## Resources
+
+- [The Markdown Guide](https://www.markdownguide.org)
+- [StackEdit: In-browser Markdown editor](https://stackedit.io/)
+- [GitHub Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 <a name="authors"/>
 
