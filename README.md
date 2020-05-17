@@ -30,8 +30,9 @@ The aim of this project is to prepare a complete **README.md template** that can
 ## Markdown Examples
 
 ### Images
+    
+
 ### Tables
-### Code blocks
 
 <a name="installation"/>
 
