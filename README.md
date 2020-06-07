@@ -6,7 +6,7 @@
 
 The aim of this project is to prepare a complete **README.md template** that can be modified to be used in a variety of projects. It will be expanded and revised as needed.
 
-*Disclaimer: This is a simple, ready-to-use template. READMEs can be very elaborate.*
+*Disclaimer: This is a simple, ready-to-use template. READMEs can be as elaborate as you need.*
 
 ## Table of contents
 - [To do](#to-do)
